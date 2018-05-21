@@ -3,7 +3,22 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
+function reponse1() {
+    var x = document.getElementById("reponse1");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function reponse2() {
+    var x = document.getElementById("reponse2");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
 (function($) {
 
 	skel.breakpoints({
