@@ -11,6 +11,14 @@ function reponse1() {
         x.style.display = "none";
     }
 }
+function phototype() {
+    var x = document.getElementById("phototype");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
 function reponse2() {
     var x = document.getElementById("reponse2");
     if (x.style.display === "none") {
