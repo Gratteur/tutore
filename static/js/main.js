@@ -3,24 +3,72 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-function reponse1() {
-    var x = document.getElementById("reponse1");
+function risque1() {
+    var x = document.getElementById("risque1");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
 }
-function phototype() {
-    var x = document.getElementById("phototype");
+function risque2() {
+    var x = document.getElementById("risque2");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
 }
-function reponse2() {
-    var x = document.getElementById("reponse2");
+function vf1() {
+    var x = document.getElementById("vf1");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function vf2() {
+    var x = document.getElementById("vf2");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function vf3() {
+    var x = document.getElementById("vf3");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function vf4() {
+    var x = document.getElementById("vf4");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function vf5() {
+    var x = document.getElementById("vf5");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function risque2() {
+    var x = document.getElementById("risque2");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function vf6() {
+    var x = document.getElementById("vf6");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
